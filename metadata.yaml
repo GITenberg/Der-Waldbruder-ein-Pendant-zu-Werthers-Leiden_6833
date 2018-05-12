@@ -1,4 +1,8 @@
 _repo: Der-Waldbruder-ein-Pendant-zu-Werthers-Leiden_6833
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lenz, Jakob Michael Reinhold
@@ -13,6 +17,8 @@ creator:
     - http://de.wikipedia.org/wiki/Jakob_Michael_Reinhold_Lenz
     - http://en.wikipedia.org/wiki/Jakob_Michael_Reinhold_Lenz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6833#Der-Waldbruder-ein-Pendant-zu-Werthers-Leiden
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
